@@ -1,2 +1,2 @@
 # zkSample
-Zook
+ZooKeeper Sample Classic
